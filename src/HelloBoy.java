@@ -1,6 +1,9 @@
 
 public class HelloBoy {
-	public void sayHello(){
+	public static void main(String[] str){
 		System.out.println("Hello world!");
+		System.out.println("Hello Boy!");
+		System.out.println("Good bye boy!");
+		String hello = "In the old place ,myelipse!";
 	}
 }
